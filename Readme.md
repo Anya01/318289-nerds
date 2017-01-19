@@ -1,4 +1,4 @@
-# Личный проект «Нёрдс»
+﻿# Личный проект «Нёрдс»
 
 * Студент: [Анна Никитина](https://up.htmlacademy.ru/htmlcss/16/user/318289).
 * Наставник: [Юлия Антонова](https://up.htmlacademy.ru/htmlcss/16/user/39082).
